@@ -15,8 +15,8 @@ int main()
         }
     }
 
-    int navioH[3] = {1, 1, 1};
-    int navioV[3] = {1, 1, 1};
+    int navioH[3] = {3, 3, 3};
+    int navioV[3] = {3, 3, 3};
 
     int linhaH = 2, colunaH = 4;
     int linhaV = 5, colunaV = 1;
