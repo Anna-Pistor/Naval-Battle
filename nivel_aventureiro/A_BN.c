@@ -16,10 +16,10 @@ int main()
     }
 
     // TAMANHO DO NAVIO
-    int navioH[3] = {1, 1, 1};
-    int navioV[3] = {1, 1, 1};
-    int navioD1[3] = {1, 1, 1};
-    int navioD2[3] = {1, 1, 1};
+    int navioH[3] = {3, 3, 3};
+    int navioV[3] = {3, 3, 3};
+    int navioD1[3] = {3, 3, 3};
+    int navioD2[3] = {3, 3, 3};
 
     // INICIO DOS NAVIOS
     int linhaH = 2, colunaH = 4;
