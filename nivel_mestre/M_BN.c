@@ -198,6 +198,8 @@ int main()
             printf("%d ", tabuleiro[i][j]);
         }
         printf("\n");
+
+        // programa finalizado
     }
     return 0;
 }
